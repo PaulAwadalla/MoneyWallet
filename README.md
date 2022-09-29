@@ -3,4 +3,5 @@
 
 
 
-![Simulator Screen Shot - iPhone 13 Pro - 2022-09-28 at 23 29 55](https://user-images.githubusercontent.com/22694162/192956016-63e9f12b-b2c3-4a18-b2ec-20e8462a5c74.png)
+
+![Screen Shot 2022-09-28 at 11 32 32 PM](https://user-images.githubusercontent.com/22694162/192956290-e990e8ab-d0e2-42c7-8879-1894b6a3fca6.png)
