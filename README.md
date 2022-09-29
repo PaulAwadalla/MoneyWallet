@@ -1,4 +1,4 @@
-#**MoneyWallet**
+# MoneyWallet
 ### Playing around with react native and typescript. I was able to get Welcome screen done
 #### Also I was trying to get get home screen done but I couldnt quite to get done since I knew to styled Components.
 
